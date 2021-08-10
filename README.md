@@ -1,5 +1,5 @@
 # Code-reuse-quiz
-## this actually quiz for module 2 in python
+## This is actually the quiz for module 2 in python
 
 Question 1
 Complete the function by filling in the missing parts. The color_translator function receives the name of a color, then prints its hexadecimal value. Currently, it only supports the three additive primary colors (red, green, blue), so it returns "unknown" for all other colors.
