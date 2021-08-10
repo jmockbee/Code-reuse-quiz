@@ -1,5 +1,6 @@
 def fractional_part(numerator, denominator):
 	# Operate with numerator and denominator to 
+
     x = numerator 
     y = denominator
         if (y==0):
@@ -9,6 +10,7 @@ def fractional_part(numerator, denominator):
             return 0
         else :
             return z 
+
 
 # keep just the fractional part of the quotient
 	return 0
