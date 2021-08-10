@@ -6,7 +6,7 @@ def color_translator(color):
 	elif color == "blue":
 		hex_color = "#0000ff"
 	else:
-		color = "unknown"
+		hex_color = "unknown"
 	return 
         hex_color
 
